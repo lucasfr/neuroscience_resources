@@ -29,14 +29,17 @@
 ## Tutorials
 
 |Title|Link|
+|-----|----|
 |Visualizations|[https://rpsychologist.com/viz/](https://rpsychologist.com/viz/)|
 
 ## Twitter threads
 
 | Thread | Link |
+|--------|------|
 |Data visualisation thread|[https://twitter.com/Paul_hph/status/1230520003155447809](https://twitter.com/Paul_hph/status/1230520003155447809)|
 
 ## Datasets
 
 |Title|Link|
+|-----|----|
 |HBN dataset|[http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/sharing_neuro.html](http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/sharing_neuro.html)|
