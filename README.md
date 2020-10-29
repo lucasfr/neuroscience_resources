@@ -12,6 +12,8 @@
 |R for Data Science|[https://r4ds.had.co.nz/](https://r4ds.had.co.nz/)|
 |R Markdown: The Definitive Guide|[https://bookdown.org/yihui/rmarkdown/](https://bookdown.org/yihui/rmarkdown/)|
 |ggplot2: Elegant Graphics for Data Analysis|[https://ggplot2-book.org](https://ggplot2-book.org)|
+|Data Visualization: A practical introduction|[https://socviz.co/index.html](https://socviz.co/index.html)|
+|Fundamentals of Data Visualization|[https://clauswilke.com/dataviz/](https://clauswilke.com/dataviz/)|
 
 ## Videos
 
@@ -23,3 +25,18 @@
 |2020 FSL Course|[https://fsl.fmrib.ox.ac.uk/fslcourse/fslcourse2020.html](https://fsl.fmrib.ox.ac.uk/fslcourse/fslcourse2020.html)|
 |NeuromatchAcademy|[https://github.com/NeuromatchAcademy/course-content/blob/master/projects/README.md](https://github.com/NeuromatchAcademy/course-content/blob/master/projects/README.md)|
 |Introduction to Computational Thinking - MIT 18.S191 aka 6.S083 aka 22.S092, Fall 2020|[https://computationalthinking.mit.edu/Fall20/](https://computationalthinking.mit.edu/Fall20/)|
+
+## Tutorials
+
+|Title|Link|
+|Visualizations|[https://rpsychologist.com/viz/](https://rpsychologist.com/viz/)|
+
+## Twitter threads
+
+| Thread | Link |
+|Data visualisation thread|[https://twitter.com/Paul_hph/status/1230520003155447809](https://twitter.com/Paul_hph/status/1230520003155447809)|
+
+## Datasets
+
+|Title|Link|
+|HBN dataset|[http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/sharing_neuro.html](http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/sharing_neuro.html)|
