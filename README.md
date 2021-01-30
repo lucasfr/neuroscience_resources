@@ -20,8 +20,7 @@
 
 |Book| Link |
 |------------------|-----------------------|
-|Elements of Statistical Modeling for
-Experimental Biology|[https://www.middleprofessor.com/files/applied-biostatistics_bookdown/_book/Walker-elementary-statistical-modeling-draft.pdf](https://www.middleprofessor.com/files/applied-biostatistics_bookdown/_book/Walker-elementary-statistical-modeling-draft.pdf)|
+|Elements of Statistical Modeling for Experimental Biology|[https://www.middleprofessor.com/files/applied-biostatistics_bookdown/_book/Walker-elementary-statistical-modeling-draft.pdf](https://www.middleprofessor.com/files/applied-biostatistics_bookdown/_book/Walker-elementary-statistical-modeling-draft.pdf)|
 |Beyond Multiple Linear Regression|[https://bookdown.org/roback/bookdown-bysh/](https://bookdown.org/roback/bookdown-bysh/)|
 
 ## Videos
