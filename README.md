@@ -22,6 +22,10 @@
 |------------------|-----------------------|
 |Elements of Statistical Modeling for Experimental Biology|[https://www.middleprofessor.com/files/applied-biostatistics_bookdown/_book/Walker-elementary-statistical-modeling-draft.pdf](https://www.middleprofessor.com/files/applied-biostatistics_bookdown/_book/Walker-elementary-statistical-modeling-draft.pdf)|
 |Beyond Multiple Linear Regression|[https://bookdown.org/roback/bookdown-bysh/](https://bookdown.org/roback/bookdown-bysh/)|
+|Statistical Inference via Data Science: A ModernDive into R and the Tidyverse|[https://moderndive.com/index.html](https://moderndive.com/index.html)|
+|Tidy Modeling with R|[https://www.tmwr.org](https://www.tmwr.org)|
+|PSY317L Guidebook| [https://bookdown.org/curleyjp0/psy317l_guides/](https://bookdown.org/curleyjp0/psy317l_guides/)|
+
 
 ## Videos
 
