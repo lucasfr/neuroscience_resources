@@ -24,8 +24,6 @@
 - [One Way ANOVA with R](https://bcdudek.net/anova/oneway_anova_basics.pdf)
 
 
-## Videos
-
 ## Courses/Worshops
 
 - [Computational Psychiatry Course 2019](https://video.ethz.ch/lectures/d-itet/2019/autumn/227-0971-00L.html)
