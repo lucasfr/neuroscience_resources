@@ -25,6 +25,7 @@
 |Statistical Inference via Data Science: A ModernDive into R and the Tidyverse|[https://moderndive.com/index.html](https://moderndive.com/index.html)|
 |Tidy Modeling with R|[https://www.tmwr.org](https://www.tmwr.org)|
 |PSY317L Guidebook| [https://bookdown.org/curleyjp0/psy317l_guides/](https://bookdown.org/curleyjp0/psy317l_guides/)|
+|One Way ANOVA with R|[https://bcdudek.net/anova/oneway_anova_basics.pdf](https://bcdudek.net/anova/oneway_anova_basics.pdf)|
 
 
 ## Videos
@@ -43,6 +44,7 @@
 |Title|Link|
 |-----|----|
 |Visualizations|[https://rpsychologist.com/viz/](https://rpsychologist.com/viz/)|
+|Common statistical tests are linear models|[https://lindeloev.github.io/tests-as-linear/](https://lindeloev.github.io/tests-as-linear/)|
 
 ## Twitter threads
 
