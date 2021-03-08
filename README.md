@@ -1,6 +1,4 @@
-![GitHub](https://img.shields.io/github/license/lucasfr/neuroscience_resources)
-[![Website](https://img.shields.io/badge/visit-website-E91E63)](about:blank)
-[![Website](https://img.shields.io/badge/repo-Readme-2196F3)](https://github.com/CoDe-Neuro/dynfc)
+![GitHub](https://img.shields.io/github/license/lucasfr/neuroscience_resources) [![Website](https://img.shields.io/badge/visit-website-E91E63)](about:blank) [![Website](https://img.shields.io/badge/repo-Readme-2196F3)](https://github.com/CoDe-Neuro/dynfc)
 
 ## Books
 
