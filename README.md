@@ -1,6 +1,6 @@
 <img align="left" src="https://img.shields.io/github/license/lucasfr/neuroscience_resources">
 
-
+<br/>
 
 ## Books
 
