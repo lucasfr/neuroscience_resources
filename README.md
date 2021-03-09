@@ -1,5 +1,5 @@
-<img align="left" src="https://img.shields.io/github/license/lucasfr/neuroscience_resources">
-<img align="left" src="https://img.shields.io/github/last-commit/lucasfr/neuroscience_resources">
+![License](https://img.shields.io/github/license/lucasfr/neuroscience_resources)
+![GitHub last commit](https://img.shields.io/github/last-commit/lucasfr/neuroscience_resources)
 
 <br/>
 
