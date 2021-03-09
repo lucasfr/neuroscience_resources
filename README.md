@@ -1,6 +1,12 @@
 <img align="left" src="https://img.shields.io/github/license/lucasfr/neuroscience_resources">
+<img align="left" src="https://img.shields.io/github/last-commit/lucasfr/neuroscience_resources">
 
 <br/>
+
+This repository consists of a series of free resources aimed at Neuroscience PhD students and postdocs. The idea is to list different sources of content comprehending coding, modelling, basic neuroscience, etc. 
+
+It is, however, still a work in progress and contributions are very welcome. So feel free to open pull requests at ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/lucasfr/neuroscience_resources?label=pull%20requests).
+
 
 ## Books
 
