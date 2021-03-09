@@ -5,7 +5,7 @@
 
 This repository consists of a series of free resources aimed at Neuroscience PhD students and postdocs. The idea is to list different sources of content comprehending coding, modelling, basic neuroscience, etc. 
 
-It is, however, still a work in progress and contributions are very welcome. So feel free to open pull requests at [here](https://github.com/lucasfr/neuroscience_resources/pulls)
+It is, however, still a work in progress and contributions are very welcome. So feel free to open pull requests at [here](https://github.com/lucasfr/neuroscience_resources/pulls).
 
 
 ## Books
