@@ -30,6 +30,7 @@ It is, however, still a work in progress and contributions are very welcome. So 
 - [Tidy Modeling with R](https://www.tmwr.org)
 - [PSY317L Guidebook](https://bookdown.org/curleyjp0/psy317l_guides/)
 - [One Way ANOVA with R](https://bcdudek.net/anova/oneway_anova_basics.pdf)
+- [Lightweight Machine Learning Classics with R](https://lmlcr.gagolewski.com/lmlcr.pdf)
 
 
 ## Courses/Worshops
